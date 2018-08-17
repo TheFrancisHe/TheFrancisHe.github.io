@@ -92,7 +92,7 @@ The result of successfully committing a group of transactions is inconsistent wi
 
 
 
-![table3](https://github.com/TheFrancisHe/TheFrancisHe.github.io/blob/master/img/post-pg-transaction.png)
+![table3](https://raw.githubusercontent.com/TheFrancisHe/TheFrancisHe.github.io/master/img/post-pg-transaction.png)
 
 >In PostgreSQL, you can request any of the four standard transaction isolation levels, but internally only three distinct isolation levels are implemented, i.e. PostgreSQL's Read Uncommitted mode behaves like Read Committed. This is because it is the only sensible way to map the standard isolation levels to PostgreSQL's multiversion concurrency control architecture.
 
