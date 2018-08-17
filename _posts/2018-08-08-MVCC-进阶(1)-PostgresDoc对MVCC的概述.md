@@ -6,6 +6,7 @@ date:       2018-08-08
 author:     HD
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
+tags:
     - Database
     - MVCC
     - concurrency
