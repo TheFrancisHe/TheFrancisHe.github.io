@@ -69,9 +69,8 @@ A transaction re-reads data it has previously read and finds that data has been 
 
 Read uncommitted ， Read committed  会出现这种情况。
 
-![](TheFrancisHe.github.io/img/post-pg-rr.png)
 
-
+[![](https://github.com/TheFrancisHe/TheFrancisHe.github.io/blob/master/img/post-pg-rr.png)]
 
 >phantom read（幻读）
 A transaction re-executes a query returning a set of rows that satisfy a search condition and finds that the set of rows satisfying the condition has changed due to another recently-committed transaction.
