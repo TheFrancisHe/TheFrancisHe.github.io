@@ -66,8 +66,8 @@ A transaction re-reads data it has previously read and finds that data has been 
 
 简要理解： 读取到对方提交的数据。
 
-
 Read uncommitted ， Read committed  会出现这种情况。
+
 
 ![table](https://github.com/TheFrancisHe/TheFrancisHe.github.io/blob/master/img/post-pg-rr.png)
 
