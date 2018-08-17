@@ -78,7 +78,7 @@ A transaction re-executes a query returning a set of rows that satisfy a search 
 
 Read uncommitted ， Read committed  ，Repeatable read.
 
-![table2](https://raw.githubusercontent.com/TheFrancisHe/TheFrancisHe.github.io/master/img/post-pg-hd.png)
+![table](https://raw.githubusercontent.com/TheFrancisHe/TheFrancisHe.github.io/master/img/post-pg-hd.png)
 
 
 并不是说幻读就是错的，适用于转账，但不适用与做报表。
