@@ -69,6 +69,11 @@ A transaction re-reads data it has previously read and finds that data has been 
 
 Read uncommitted ， Read committed  会出现这种情况。
 
+<<<<<<< HEAD
+=======
+![table](https://github.com/TheFrancisHe/TheFrancisHe.github.io/blob/master/img/post-pg-rr.png)
+
+>>>>>>> a7f40fe04a626630bb88b5ee8cb21d522b7ef89c
 
 [![](https://github.com/TheFrancisHe/TheFrancisHe.github.io/blob/master/img/post-pg-rr.png)]
 
@@ -79,7 +84,7 @@ A transaction re-executes a query returning a set of rows that satisfy a search 
 Read uncommitted ， Read committed  ，Repeatable read.
 
 
-![](TheFrancisHe.github.io/img/post-pg-rc.png)
+![table](https://github.com/TheFrancisHe/TheFrancisHe.github.io/blob/master/img/post-pg-hd.png)
 
 并不是说幻读就是错的，适用于转账，但不适用与做报表。
 
@@ -92,7 +97,7 @@ The result of successfully committing a group of transactions is inconsistent wi
 
 
 
-![](TheFrancisHe.github.io/img/post-pg-transaction.png)
+![table](https://github.com/TheFrancisHe/TheFrancisHe.github.io/blob/master/img/post-pg-transaction.png)
 
 >In PostgreSQL, you can request any of the four standard transaction isolation levels, but internally only three distinct isolation levels are implemented, i.e. PostgreSQL's Read Uncommitted mode behaves like Read Committed. This is because it is the only sensible way to map the standard isolation levels to PostgreSQL's multiversion concurrency control architecture.
 
