@@ -4,7 +4,7 @@ title:      MVCC-进阶(1)
 subtitle:   PostgresDoc对MVCC的概述
 date:       2018-08-08
 author:     HD
-header-img: img/post-bg-ios9-web.jpg
+
 catalog: true
 tags:
     - Database
