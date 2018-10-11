@@ -35,11 +35,4 @@ tags:
 
 
 
-### 参考：
-
-图文来自：
-
-https://www.journaldev.com/9743/jms-messaging-models
-
-部分资料来自网络
 
