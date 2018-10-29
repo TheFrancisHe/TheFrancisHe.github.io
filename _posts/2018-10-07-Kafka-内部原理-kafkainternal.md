@@ -9,6 +9,7 @@ tags:
      - 消息队列
      - kafka
      - kafka internal
+     - 生产者、消费者、zookeeper
 ---
 
 
