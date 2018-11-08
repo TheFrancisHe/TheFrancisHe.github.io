@@ -39,33 +39,18 @@ tags:
 **当First name+Last Name时，middle word 是van； 当只有Lastname时，middle word 是 Van**
 
 
-
-
 #### Python：
 
 正常发音即可，我倾向于 Py-th-on。
 
 
 
+---
+
 ***写在最后：***
 
 之前一直是JAVA，这次进入Python的世界，一探究竟。
 
-再次向作者致敬。
+再次向作者致敬。 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### yum与epel设置：
-
-https://my.oschina.net/dingzang/blog/702891
+---
