@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Goal of Python
-subtitle:   ISO 选择
+subtitle:   开发者的好伙伴——Python
 date:       2018-11-08
 author:     HD
 catalog: true
