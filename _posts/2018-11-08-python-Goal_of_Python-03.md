@@ -1,13 +1,12 @@
 ---
 layout:     post
-title:      安装CentOS
+title:      Goal of Python
 subtitle:   ISO 选择
 date:       2018-11-08
 author:     HD
 catalog: true
 tags:
      - Python
-     - CentOS
 ---
 
 
