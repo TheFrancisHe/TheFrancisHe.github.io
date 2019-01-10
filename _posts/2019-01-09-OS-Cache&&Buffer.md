@@ -58,8 +58,6 @@ Cache 和 Buffer，主要区别是什么？
 >
 > 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
+![](C:\Users\Frank\Documents\GitHub\TheFrancisHe.github.io\img\buffercache.png)
 
-
-![img](https://pic3.zhimg.com/80/v2-ca8cadd1052a5d261c02c02c2792bdf6_hd.png)
-
-![img](https://pic3.zhimg.com/80/v2-e62c6d9272aedc29ee30c6f36ebb780a_hd.jpg)
+![](C:\Users\Frank\Documents\GitHub\TheFrancisHe.github.io\img\cachebuffer.jpg)
