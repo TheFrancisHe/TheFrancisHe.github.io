@@ -3,7 +3,7 @@
 layout:     post
 title:      Database —— MySQL 对于千万级的大表要怎么优化？
 subtitle:   从知乎提炼出的观点
-date:       2019-01-010
+date:       2019-01-10
 author:     HD
 catalog: true
 tags:
