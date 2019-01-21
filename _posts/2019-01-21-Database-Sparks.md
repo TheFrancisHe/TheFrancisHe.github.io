@@ -24,5 +24,11 @@ https://projects.apache.org/projects.html?category
 
 ---
 
+刷 leetcode 需要哪些基础？
+
+https://www.zhihu.com/question/30737325/answer/524120016
+
+---
+
 
 
