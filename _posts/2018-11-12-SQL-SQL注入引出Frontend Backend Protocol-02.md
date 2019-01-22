@@ -14,31 +14,31 @@
 
 ##### 官方Doc主页面：
 
-​	https://www.postgresql.org/docs/current/protocol.html    
+https://www.postgresql.org/docs/current/protocol.html    
 
 
 
 **About Simple Query：*SQL注入可能发生***
 
-​	https://www.postgresql.org/docs/current/protocol-flow.html#id-1.10.5.7.4 
+https://www.postgresql.org/docs/current/protocol-flow.html#id-1.10.5.7.4 
 
 
 
 **About  Extended Query：*可彻底避免SQL注入***
 
-​	https://www.postgresql.org/docs/current/protocol-flow.html#PROTOCOL-FLOW-EXT-QUERY
+https://www.postgresql.org/docs/current/protocol-flow.html#PROTOCOL-FLOW-EXT-QUERY
 
 
 
 **相关中文总结**
 
-​	https://github.com/Qihoo360/gpstall/wiki/Postgre-Frontend-Backend-Protocol%E7%AE%80%E4%BB%8B
+https://github.com/Qihoo360/gpstall/wiki/Postgre-Frontend-Backend-Protocol%E7%AE%80%E4%BB%8B
 
 ​	***补充理解：*** *不同编程语言，其与前后端通信协议对应的接口库不同。 C : Libpq ； JAVA：JDBC；* 
 
 **案例：SQL 注入的“防”与“治”**
 
-​	https://tapoueh.org/blog/2018/11/preventing-sql-injections/
+https://tapoueh.org/blog/2018/11/preventing-sql-injections/
 
 ​	***补充理解：***
 
