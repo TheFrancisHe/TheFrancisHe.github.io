@@ -48,3 +48,40 @@ https://www.zhihu.com/question/30737325/answer/524120016
 
 ---
 
+2019.1.28
+
+NO.1
+
+> http://www.yinwang.org/blog-cn/2017/07/06/master-pl  来自王垠的blog-
+
+> - 重视语言特性，而不是语言：
+
+> ​变量定义
+> 算术运算
+> for 循环语句，while 循环语句
+> 函数定义，函数调用
+> 递归
+> 静态类型系统
+> 类型推导
+> lambda 函数
+> 面向对象
+> 垃圾回收
+> 指针算术
+> goto 语句	
+
+> - 掌握关键语言特性，忽略次要特性
+>
+> 意为将重点放在其特色上。
+
+> - 自己动手实现其语言特性。
+
+NO.2
+
+> 关于SQL标准：
+>
+> https://wiki.postgresql.org/wiki/Developer_FAQ#Where_can_I_get_a_copy_of_the_SQL_standards.3F
+
+
+
+
+
