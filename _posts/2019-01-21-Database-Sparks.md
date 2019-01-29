@@ -83,5 +83,24 @@ NO.2
 
 
 
+NO.3
+
+> https://www.zhihu.com/question/47902654
+>
+> 最简单的办法：关注一下SIGMOD，VLDB，ICDE上每年新发表的paper（尤其是前两个）。把title和abstract看一遍，你基本就都懂了。
+
+NO.4
+
+> TiDB<==RocksDB<==存储
+>
+> 来源：http://alimy.me/post/dev_201805021940/
+>
+> NewSQL: 分布式数据库TiDB、CockroachDB
+> TiDB
+> TiDB 开源分布式 NewSQL 关系型数据库 TiDB 是新一代开源分布式 NewSQL 数据库，模型受 Google Spanner / F1 论文的启发，实现了自动的水平伸缩，强一致性的分布式事务，基于 Raft 算法的多副本复制等重要 NewSQL 特性。TiDB 结合了 RDBMS 和 NoSQL 的优点，部署简单，在线弹性扩容和异步表结构变更不影响业务， 真正的异地多活及自动故障恢复保障数据安全，同时兼容 MySQL 协议，使迁移使用成本降到极低。
+>
+> CockroachDB (蟑螂DB/小强DB)
+> CockroachDB（中文名蟑螂DB，所以又可以称为小强DB），是构建于事务处理及强一致性KV存储上的分布式SQL数据库，支持水平扩展、自动容错处理、强一致性事务，并且提供SQL接口用于数据处理，是Google Spanner/F1的开源实现。 CockroachDB适用于应用对数据要求精确、可靠、完全正确的场景，支持自动复制、均匀分布、基于极小配置的数据恢复，可用于分布式的、可复制的联机事务处理（OLTP），多数据中心的部署，私有云的基础构建，它不适用于读少写多的场景，可以用内存数据库来代替，也不适用于复杂的join查询，重量级的数据分析及联机分析处理（OLAP）。
+
 
 
