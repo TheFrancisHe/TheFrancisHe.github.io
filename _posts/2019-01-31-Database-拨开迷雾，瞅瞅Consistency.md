@@ -62,7 +62,7 @@ PS：这句话是在原子性的描述下发现的，感觉很符合想表达的
 
 #### 通过Concept里的简单例子，对以上内容做形象化的展示：
 
-![](C:\Users\Frank\Documents\GitHub\TheFrancisHe.github.io\img\consistency.png)
+![示例](http://hedong12.com/img/consistency.png)
 
 常见的银行转账案例：**A给B转50**，AB分别代表两个银行账户。
 
