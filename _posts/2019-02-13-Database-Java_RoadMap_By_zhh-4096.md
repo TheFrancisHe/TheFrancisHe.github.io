@@ -2,7 +2,7 @@
 
 layout:     post
 title:      Java RoadMap By zhh-4096 aka codefollower
-subtitle:   如果我是一个新人，想学后端的Java开发，我会这么学~
+subtitle:   面向数据库行业的Java RoadMap
 date:       2019-02-13
 author:     HD
 catalog: true
