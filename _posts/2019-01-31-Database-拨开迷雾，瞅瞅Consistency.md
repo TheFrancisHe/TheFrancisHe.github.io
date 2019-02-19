@@ -18,9 +18,9 @@ tags:
 
 ### Consistency（一致性）
 
-对于Consistency，看了很多文章的描述，似懂非懂。
+对于Consistency，很多blog诠释的并不透彻。
 
-精读Concept 后，个人对Consistency 的认识可以说是打开了。
+精读Concept 后，想谈谈自己关于Consistency的认识。
 
  
 
